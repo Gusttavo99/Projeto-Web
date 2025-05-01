@@ -10,6 +10,7 @@ const Adote = () => {
         <Image
           style={styles.image}
           source={require('../(tabs)/style/imagem/icon.png')}
+
         />
         <View style={styles.balao}>
           <Text style={styles.title}>Nome: Luan (5 anos)</Text>
@@ -23,6 +24,7 @@ const Adote = () => {
         <Image
           style={styles.image}
           source={require('../(tabs)/style/imagem/icon.png')}
+
         />
         <View style={styles.balao}>
           <Text style={styles.title}>Nome: Sofia (7 anos)</Text>
@@ -36,6 +38,7 @@ const Adote = () => {
         <Image
           style={styles.image}
           source={require('../(tabs)/style/imagem/icon.png')}
+
         />
         <View style={styles.balao}>
           <Text style={styles.title}>Nome: Pedro (6 anos)</Text>
@@ -49,6 +52,7 @@ const Adote = () => {
         <Image
           style={styles.image}
           source={require('../(tabs)/style/imagem/icon.png')}
+
         />
         <View style={styles.balao}>
           <Text style={styles.title}>Nome: Clara (4 anos)</Text>
@@ -62,6 +66,7 @@ const Adote = () => {
         <Image
           style={styles.image}
           source={require('../(tabs)/style/imagem/icon.png')}
+
         />
         <View style={styles.balao}>
           <Text style={styles.title}>Nome: Lucas (8 anos)</Text>
