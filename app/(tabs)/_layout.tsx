@@ -1,8 +1,12 @@
 import { Tabs } from 'expo-router';
-import React from 'react';
 import { Platform } from 'react-native';
+<<<<<<< HEAD
 import { MaterialIcons } from '@expo/vector-icons';
 import { HapticTab } from '@/components/HapticTab';
+=======
+import { HapticTab } from '@/components/HapticTab';
+import { IconSymbol, } from '@/components/ui/IconSymbol';
+>>>>>>> d98b749c64d2d05fe79fd77e580c16583add024b
 import TabBarBackground from '@/components/ui/TabBarBackground';
 import { Colors } from '@/constants/Colors';
 import { useColorScheme } from '@/hooks/useColorScheme';
